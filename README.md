@@ -7,8 +7,9 @@ This is my very first **FREE** script I have developed over the last few days, T
 
 ## In-game Usage
 
-**Open Menu:** /loadout
-**While In Menu:** Navigate the menu using UP/DOWN arrows, and press ENTER to select each "button", then press BACKSPACE to close the menu
+When in game simply use **“/loadout”** to open the menu and access all weapons that are fully customizable to the server owners liking, with the ability to add more or less weapons, as well as the ability to return all weapons back and remove them from the players weapon wheel!
+
+Use the **UP/DOWN** arrows to navigate the menu, **ENTER** to select a button to spawn or remove a weapon, and **BACKSPACE** to close the menu and get back to roleplay!
 
 ## Server Developers Support
 
