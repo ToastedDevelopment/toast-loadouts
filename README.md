@@ -11,6 +11,8 @@ When in game simply use **“/loadout”** to open the menu and access all weapo
 
 Use the **UP/DOWN** arrows to navigate the menu, **ENTER** to select a button to spawn or remove a weapon, and **BACKSPACE** to close the menu and get back to roleplay!
 
+We have also created the ability for users to add a key bind for this menu so they can open with ease to avoid using chat commands as much as they wish!
+
 ## Server Developers Support
 
 We provide all of our support as detailed as we can via thw following link below to ensure server owners can make this suit their community as best as possible! If you require further support please feel free to join our discord server also provided below!
