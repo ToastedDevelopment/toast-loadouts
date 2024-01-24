@@ -55,10 +55,13 @@ menu_removeallweapons:On('select', function(item)
     end
 end)
 
--- This function allows the menu to open ...(REMEMBER TO FINISH LATER)
+-- This function creates the keybind for the menu to open
 RegisterCommand("loadout", function()
     MenuV:OpenMenu(menu)
 end)
+
+-- This function allows members to create there own keybind for the menu via keybind settings (There is no keybind my default)
+RegisterKeyMapping('loadout', 'Opens the loadout menu ', 'KEYBOARD', '')
 
 -- What displays on the chat command (Command must match here aswell as above to work correctly)
 TriggerEvent('chat:addSuggestion', '/loadout', 'Access Police Loadout Weapons Menu')
