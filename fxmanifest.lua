@@ -4,7 +4,7 @@ game 'gta5'
 name 'Vehicle Weapon Storage'
 author 'Toasted Development'
 version '1.0.0'
-description 'Store weapons in emergency service vehicles'
+description 'Weapon Loadout Menu'
 
 client_scripts {
     '@menuv/menuv.lua',
